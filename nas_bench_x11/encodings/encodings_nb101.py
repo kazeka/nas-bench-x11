@@ -1,5 +1,5 @@
 import numpy as np
-from nasbench import api
+from nas_bench_x11 import api
 
 
 INPUT = 'input'
